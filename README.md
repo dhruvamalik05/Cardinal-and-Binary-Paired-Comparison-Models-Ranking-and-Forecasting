@@ -30,9 +30,3 @@ Because the notebooks chain together using `%run` commands inside Google Drive, 
 2. **Open `1_UnderstandingLeastSquareForCardinalComparison.ipynb`** in Google Colab by right-clicking the file in Google Drive and selecting **Open with > Google Colaboratory**.
 3. **Mount your Google Drive** when prompted in the first cell so Colab can access the folder path (`/content/drive/MyDrive/Colab Notebooks`).
 4. **Run notebooks in order (`1` through `8`).** Whenever a notebook executes `%run` on an earlier notebook, ensure the folder path matches where you saved the files in your Google Drive.
-
-*(Tip: You can also open any notebook directly from GitHub in Colab by visiting `https://google.com` and uploading the remaining `.ipynb` files to your Colab session).*
-
-
-## License
-This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
